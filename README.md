@@ -1,1 +1,1 @@
-My super sweet proj
+My super sweet project
